@@ -28,11 +28,11 @@ kramdown:
 owner:
   name: Aaron Dennis
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Pursuing quality in geospatial technology (let's call that cartography)."
+  email: aaron.p.dennis@gmail.com
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: aaronpdennis
+  facebook: 
   google:
     plus: #username
     analytics: 
@@ -40,10 +40,10 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: aaronpdennis
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: aa_dennis
   lastfm: #username
   tumblr: #username
   pinterest: #username
