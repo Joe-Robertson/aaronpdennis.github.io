@@ -5,7 +5,7 @@ tags: [portfolio]
 modified: 2014-11-05T13:00:00.573882-04:00
 comments: false
 image:
-  feature: boteti-wide.jpg
+feature: 
   credit: 
   creditlink: 
 ---
