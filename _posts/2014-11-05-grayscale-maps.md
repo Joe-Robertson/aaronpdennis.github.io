@@ -12,12 +12,12 @@ image:
 ---
 
 <figure>
-	<a href="/images/grayscale-maps/boteti.png"><img src="/images/grayscale-maps/boteti.png"></a>
+	<a href="/images/grayscale-maps/boteti.jpg"><img src="/images/grayscale-maps/boteti.png"></a>
 	<figcaption>A map of a study region along the Boteti River below the Okavango Delta in Botswana.</figcaption>
 </figure>
 
 <figure>
-	<a href="/images/grayscale-maps/bantustans.png"><img src="/images/grayscale-maps/bantustans.png"></a>
+	<a href="/images/grayscale-maps/bantustans.jpg"><img src="/images/grayscale-maps/bantustans.png"></a>
 	<figcaption>A map of the Bantustans set up during South African Apartheid.</figcaption>
 </figure>
 
