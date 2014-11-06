@@ -9,9 +9,12 @@ image:
   credit: 
   creditlink: 
 ---
+
+*Some of the stuff I've worked on.*
+
 ---
 
-## [Grayscale Maps of Study Regions]({{ site.url }}/posts/grayscale-maps.md)
+### [Grayscale Maps of Study Regions]({{ site.url }}/posts/grayscale-maps.md)
 
 <figure>
 	<a href="/posts/grayscale-maps.md"><img src="/images/grayscale-maps/gray-scale-wide.png"></a>
@@ -20,7 +23,7 @@ image:
 
 ---
 
-## [Hemlock Woolly Adelgid Spread]({{ site.ur }}/posts/hemlock-adelgid.md)
+### [Hemlock Woolly Adelgid Spread]({{ site.ur }}/posts/hemlock-adelgid.md)
 
 <figure>
 	<a href="/posts/hemlock-adelgid.md"><img src="/images/hemlock-adelgid-maps/hemlock-wide.png"></a>
@@ -29,7 +32,7 @@ image:
 
 ---
 
-## [Marcellus Shale Drilling in Lycoming County]({{ site.url }}/posts/lycoming-county.md)
+### [Marcellus Shale Drilling in Lycoming County]({{ site.url }}/posts/lycoming-county.md)
 
 <figure>
 	<a href="/posts/lycoming-county.md"><img src="/images/lycoming-county/lycoming-wide.png"></a>
@@ -38,7 +41,7 @@ image:
 
 ---
 
-## [Field Work in Rural Tanzania]({{ site.url }}/posts/njokamoni-tanzania.md)
+### [Field Work in Rural Tanzania]({{ site.url }}/posts/njokamoni-tanzania.md)
 
 <figure>
 	<a href="/posts/njokamoni-tanzania.md"><img src="/images/njokamoni/njokamoni-wide.png"></a>
