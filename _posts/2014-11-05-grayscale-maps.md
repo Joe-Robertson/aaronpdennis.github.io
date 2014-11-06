@@ -12,7 +12,7 @@ image:
 ---
 
 <figure>
-	<a href="/images/grayscale-maps/boteti.jpg"><img src="/images/grayscale-maps/boteti.png"></a>
+	<a href="/images/grayscale-maps/boteti.jpg"><img src="/images/grayscale-maps/boteti.jpg"></a>
 	<figcaption>A map of a study region along the Boteti River below the Okavango Delta in Botswana.</figcaption>
 </figure>
 
@@ -22,6 +22,6 @@ image:
 </figure>
 
 <figure>
-	<a href="/images/grayscale-maps/etsha13.png"><img src="/images/grayscale-maps/etsha13.jpg"></a>
+	<a href="/images/grayscale-maps/etsha13.png"><img src="/images/grayscale-maps/etsha13.png"></a>
 	<figcaption>A map of depicting seasonal flooding and local migration to new neighborhoods in the Botswana village of Etsha 13 near the Okavango Delta.</figcaption>
 </figure>
