@@ -14,7 +14,7 @@ image:
 ## [Grayscale Maps of Study Regions]({{ site.url }}/posts/grayscale-maps.md)
 
 Working with researchers in the geography department here at Penn State, I created these maps of various study regions.
-    
+</br>
 
 ![Grayscale Maps Preview]({{ site.url }}/images/grayscale-maps/gray-scale-wide.png)
 
@@ -23,7 +23,7 @@ Working with researchers in the geography department here at Penn State, I creat
 ## Hemlock Woolly Adelgid Spread
 
 These maps were created to illustrate the spread of hemlock woolly adelgid in the Eastern United States.
-    
+</br>
 
 ![Hemlock Woolly Adelgid Preview]({{ site.url }}/images/hemlock-adelgid-maps/hemlock-wide.png)
 
@@ -32,7 +32,7 @@ These maps were created to illustrate the spread of hemlock woolly adelgid in th
 ## Marcellus Shale Drilling in Lycoming County
 
 For this group report on unconventional gas well drilling in Lycoming County, Pennsylvania, I took the designed these maps and pages. 
-    
+</br>
 
 ![Lycoming County Preview]({{ site.url }}/images/lycoming-county/lycoming-wide.png)
 
@@ -41,6 +41,6 @@ For this group report on unconventional gas well drilling in Lycoming County, Pe
 ## Field Work in Rural Tanzania
 
 I had the chance to spend six weeks in Tanzania, four of those in the villages of Man'gula A and Man'gula B in the Kilombero Valley adjacent to Udzungwa Mountains National Park.
-    
+</br>
 
 ![Njokamoni Poster Preview]({{ site.url }}/images/njokamoni/njokamoni-wide.png)
