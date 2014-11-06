@@ -12,6 +12,33 @@ image:
 ---
 
 <figure>
-	<a href="/images/grayscale-maps/boteti.png"><img src="/images/grayscale-maps/boteti.png"></a>
-	<figcaption>A map of a study region along the Boteti River below the Okavango Delta in Botswana.</figcaption>
+	<a href="/images/hemlock-adelgid-maps/hemlockTitle.png"><img src="/images/hemlock-adelgid-maps/hemlockTitle.png"></a>
+</figure>
+
+<figure>
+	<a href="/images/hemlock-adelgid-maps/hemlockBackground.png"><img src="/images/hemlock-adelgid-maps/hemlockBackground.png"></a>
+</figure>
+
+<figure>
+	<a href="/images/hemlock-adelgid-maps/hemlock2013.png"><img src="/images/hemlock-adelgid-maps/hemlock2013.png"></a>
+</figure>
+
+<figure>
+	<a href="/images/hemlock-adelgid-maps/hemlock2020.png"><img src="/images/hemlock-adelgid-maps/hemlock2020.png"></a>
+</figure>
+
+<figure>
+	<a href="/images/hemlock-adelgid-maps/hemlock2040.png"><img src="/images/hemlock-adelgid-maps/hemlock2040.png"></a>
+</figure>
+
+<figure>
+	<a href="/images/hemlock-adelgid-maps/hemlock2060.png"><img src="/images/hemlock-adelgid-maps/hemlock2060.png"></a>
+</figure>
+
+<figure>
+	<a href="/images/hemlock-adelgid-maps/hemlock2080.png"><img src="/images/hemlock-adelgid-maps/hemlock2080.png"></a>
+</figure>
+
+<figure>
+	<a href="/images/hemlock-adelgid-maps/hemlock2099.png"><img src="/images/hemlock-adelgid-maps/hemlock2099.png"></a>
 </figure>

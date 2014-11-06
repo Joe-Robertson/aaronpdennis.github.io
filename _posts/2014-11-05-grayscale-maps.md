@@ -17,11 +17,11 @@ image:
 </figure>
 
 <figure>
-	<a href="/images/grayscale-maps/bantustans.jpg"><img src="/images/grayscale-maps/bantustans.png"></a>
+	<a href="/images/grayscale-maps/bantustans.jpg"><img src="/images/grayscale-maps/bantustans.jpg"></a>
 	<figcaption>A map of the Bantustans set up during South African Apartheid.</figcaption>
 </figure>
 
 <figure>
-	<a href="/images/grayscale-maps/etsha13.png"><img src="/images/grayscale-maps/etsha13.png"></a>
+	<a href="/images/grayscale-maps/etsha13.png"><img src="/images/grayscale-maps/etsha13.jpg"></a>
 	<figcaption>A map of depicting seasonal flooding and local migration to new neighborhoods in the Botswana village of Etsha 13 near the Okavango Delta.</figcaption>
 </figure>
