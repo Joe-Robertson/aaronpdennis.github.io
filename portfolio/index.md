@@ -27,20 +27,22 @@ image:
 	<figcaption>These maps were created to illustrate the spread of hemlock woolly adelgid in the Eastern United States.</figcaption>
 </figure>
 
-![Hemlock Woolly Adelgid Preview]({{ site.url }}/images/hemlock-adelgid-maps/hemlock-wide.png)
+---
+
+## [Marcellus Shale Drilling in Lycoming County]({{ site.url }}/posts/lycoming-county.md)
+
+<figure>
+	<a href="/posts/lycoming-county.md"><img src="/images/lycoming-county/lycoming-wide.png"></a>
+	<figcaption>For this group report on unconventional gas well drilling in Lycoming County, Pennsylvania, I took the lead on designing these maps and pages.</figcaption>
+</figure>
 
 ---
 
-## Marcellus Shale Drilling in Lycoming County
+## [Field Work in Rural Tanzania]({{ site.url }}/posts/njokamoni-tanzania.md)
 
-For this group report on unconventional gas well drilling in Lycoming County, Pennsylvania, I took the designed these maps and pages. 
-
-![Lycoming County Preview]({{ site.url }}/images/lycoming-county/lycoming-wide.png)
+<figure>
+	<a href="/posts/njokamoni-tanzania.md"><img src="/images/njokamoni/njokamoni-wide.png"></a>
+	<figcaption>I had the chance to spend six weeks in Tanzania, four of those in the villages of Man'gula A and Man'gula B in the Kilombero Valley adjacent to Udzungwa Mountains National Park.</figcaption>
+</figure>
 
 ---
-
-## Field Work in Rural Tanzania
-
-I had the chance to spend six weeks in Tanzania, four of those in the villages of Man'gula A and Man'gula B in the Kilombero Valley adjacent to Udzungwa Mountains National Park.
-
-![Njokamoni Poster Preview]({{ site.url }}/images/njokamoni/njokamoni-wide.png)
