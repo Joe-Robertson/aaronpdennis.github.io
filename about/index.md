@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-10-02T13:00:00.573882-04:00
 comments: false
 image:
-  feature: boteti-wide.jpg
+  feature: mangula.jpg
   credit: 
   creditlink: 
 ---
