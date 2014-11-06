@@ -30,3 +30,27 @@ image:
 <figure>
 	<a href="/images/lycoming-county/paCountiesChart.jpg"><img src="/images/lycoming-county/paCountiesChart.jpg"></a>
 </figure>
+
+<figure>
+	<a href="/images/lycoming-county/densityWatershedMap.jpg"><img src="/images/lycoming-county/densityWatershedMap.jpg"></a>
+</figure>
+
+<figure>
+	<a href="/images/lycoming-county/densityMunicipalityMap.jpg"><img src="/images/lycoming-county/densityMunicipalityMap.jpg"></a>
+</figure>
+
+<figure>
+	<a href="/images/lycoming-county/lycomingStreamsWithTrout.jpg"><img src="/images/lycoming-county/lycomingStreamsWithTrout.jpg"></a>
+</figure>
+
+<figure>
+	<a href="/images/lycoming-county/troutStreamsLycoming.jpg"><img src="/images/lycoming-county/troutStreamsLycoming.jpg"></a>
+</figure>
+
+<figure>
+	<a href="/images/lycoming-county/drillingWithin300Feet.jpg"><img src="/images/lycoming-county/drillingWithin300Feet.jpg"></a>
+</figure>
+
+<figure>
+	<a href="/images/lycoming-county/conclusion.jpg"><img src="/images/lycoming-county/conclusion.jpg"></a>
+</figure>
