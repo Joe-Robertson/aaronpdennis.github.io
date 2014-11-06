@@ -15,14 +15,17 @@ image:
 
 <figure>
 	<a href="/posts/grayscale-maps.md"><img src="/images/grayscale-maps/gray-scale-wide.png"></a>
-	<figcaption>Working with researchers in the geography department here at Penn State, I created these maps of various study regions.</figcaption>
+	<figcaption>Working with researchers here at Penn State, I created these maps of various study regions.</figcaption>
 </figure>
 
 ---
 
-## Hemlock Woolly Adelgid Spread
+## [Hemlock Woolly Adelgid Spread]({{ site.ur }}/posts/hemlock-adelgid.md)
 
-These maps were created to illustrate the spread of hemlock woolly adelgid in the Eastern United States.
+<figure>
+	<a href="/posts/hemlock-adelgid.md"><img src="/images/hemlock-adelgid-maps/hemlock-wide.png"></a>
+	<figcaption>These maps were created to illustrate the spread of hemlock woolly adelgid in the Eastern United States.</figcaption>
+</figure>
 
 ![Hemlock Woolly Adelgid Preview]({{ site.url }}/images/hemlock-adelgid-maps/hemlock-wide.png)
 
