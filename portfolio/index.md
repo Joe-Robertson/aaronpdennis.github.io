@@ -54,7 +54,7 @@ image:
 
 <figure>
 	<a href="/cartography-book-figures/"><img src="/images/dbm2-book-figures/dbm2-wide.jpg"></a>
-	<figcaption>I've been working with Cindy Brewer in the Gould Center at Penn State to help rewrite her book, <ul>Designing Better Maps</ul>, published by Esri Press. These are some of the figures I've created to explain color decisions for maps.</figcaption>
+	<figcaption>I've been working with Cindy Brewer in the Gould Center at Penn State to help rewrite her book, Designing Better Maps, published by Esri Press. These are some of the figures I've created to explain color decisions for maps.</figcaption>
 </figure>
 
 ---
