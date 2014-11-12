@@ -44,7 +44,7 @@ image:
 ### [Field Work in Rural Tanzania]({{ site.url }}/njokamoni/)
 
 <figure>
-	<a href="/njokamoni-tanzania/"><img src="/images/njokamoni/njokamoni-wide.png"></a>
+	<a href="/njokamoni/"><img src="/images/njokamoni/njokamoni-wide.png"></a>
 	<figcaption>I had the chance to spend six weeks in Tanzania, four of those in the villages of Man'gula A and Man'gula B in the Kilombero Valley adjacent to Udzungwa Mountains National Park.</figcaption>
 </figure>
 
