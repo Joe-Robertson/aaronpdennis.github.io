@@ -23,7 +23,7 @@ image:
 
 ---
 
-### [Hemlock Woolly Adelgid Spread]({{ site.ur }}/hemlock-adelgid/)
+### [Hemlock Woolly Adelgid Spread]({{ site.url }}/hemlock-adelgid/)
 
 <figure>
 	<a href="/hemlock-adelgid/"><img src="/images/hemlock-adelgid-maps/hemlock-wide.png"></a>
@@ -46,6 +46,15 @@ image:
 <figure>
 	<a href="/njokamoni-tanzania/"><img src="/images/njokamoni/njokamoni-wide.png"></a>
 	<figcaption>I had the chance to spend six weeks in Tanzania, four of those in the villages of Man'gula A and Man'gula B in the Kilombero Valley adjacent to Udzungwa Mountains National Park.</figcaption>
+</figure>
+
+---
+
+### [Figures for Cartography Book]({{ site.url }}/dbm2-book-figures/)
+
+<figure>
+	<a href="/cartography-book-figures/"><img src="/dbm2-book-figures/dbm2-wide.jpg"></a>
+	<figcaption>I've been working with Cindy Brewer in the Gould Center at Penn State to help rewrite her book, <ul>Designing Better Maps</ul>, published by Esri Press. These are some of the figures I've created to explain color decisions for maps.</figcaption>
 </figure>
 
 ---
