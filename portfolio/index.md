@@ -41,7 +41,7 @@ image:
 
 ---
 
-### [Field Work in Rural Tanzania]({{ site.url }}/njokamoni-tanzania/)
+### [Field Work in Rural Tanzania]({{ site.url }}/njokamoni/)
 
 <figure>
 	<a href="/njokamoni-tanzania/"><img src="/images/njokamoni/njokamoni-wide.png"></a>
