@@ -12,45 +12,45 @@ image:
 ---
 
 <figure>
-	<a href="/images/lycoming-county/titlePage.jpg"><img src="/images/lycoming-county/titlePage.jpg"></a>
+	<a href="/images/lycoming-county/titlePage.jpg"><img src="/images/lycoming-county/titlePage-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/introduction.jpg"><img src="/images/lycoming-county/introduction.jpg"></a>
+	<a href="/images/lycoming-county/introduction.jpg"><img src="/images/lycoming-county/introduction-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/lycomingLocator.jpg"><img src="/images/lycoming-county/lycomingLocator.jpg"></a>
+	<a href="/images/lycoming-county/lycomingLocator.jpg"><img src="/images/lycoming-county/lycomingLocator-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/lycomingReferenceMap.jpg"><img src="/images/lycoming-county/lycomingReferenceMap.jpg"></a>
+	<a href="/images/lycoming-county/lycomingReferenceMap.jpg"><img src="/images/lycoming-county/lycomingReferenceMap-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/paCountiesChart.jpg"><img src="/images/lycoming-county/paCountiesChart.jpg"></a>
+	<a href="/images/lycoming-county/paCountiesChart.jpg"><img src="/images/lycoming-county/paCountiesChart-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/densityWatershedMap.jpg"><img src="/images/lycoming-county/densityWatershedMap.jpg"></a>
+	<a href="/images/lycoming-county/densityWatershedMap.jpg"><img src="/images/lycoming-county/densityWatershedMap-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/densityMunicipalityMap.jpg"><img src="/images/lycoming-county/densityMunicipalityMap.jpg"></a>
+	<a href="/images/lycoming-county/densityMunicipalityMap.jpg"><img src="/images/lycoming-county/densityMunicipalityMap-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/lycomingStreamsWithTrout.jpg"><img src="/images/lycoming-county/lycomingStreamsWithTrout.jpg"></a>
+	<a href="/images/lycoming-county/lycomingStreamsWithTrout.jpg"><img src="/images/lycoming-county/lycomingStreamsWithTrout-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/troutStreamsLycoming.jpg"><img src="/images/lycoming-county/troutStreamsLycoming.jpg"></a>
+	<a href="/images/lycoming-county/troutStreamsLycoming.jpg"><img src="/images/lycoming-county/troutStreamsLycoming-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/drillingWithin300Feet.jpg"><img src="/images/lycoming-county/drillingWithin300Feet.jpg"></a>
+	<a href="/images/lycoming-county/drillingWithin300Feet.jpg"><img src="/images/lycoming-county/drillingWithin300Feet-small.jpg"></a>
 </figure>
 
 <figure>
-	<a href="/images/lycoming-county/conclusion.jpg"><img src="/images/lycoming-county/conclusion.jpg"></a>
+	<a href="/images/lycoming-county/conclusion.jpg"><img src="/images/lycoming-county/conclusion-small.jpg"></a>
 </figure>
