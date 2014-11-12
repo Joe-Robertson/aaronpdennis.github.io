@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Figures for "Desiging Better Maps"
+title: Figures for "Designing Better Maps"
 excerpt: "Figures created for a cartography book"
 modified: 2014-11-03
 tags: [aaron dennis, cartography, book]
