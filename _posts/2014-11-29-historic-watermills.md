@@ -87,3 +87,19 @@ Inspiration for this work is derived from a dataset collected by the Historic Se
 	<img src="/images/mills/centre1874-overview.jpg">
 	<figcaption>Centre County milldam locations in 1874.</figcaption>
 </figure>
+
+### Analysis of Hydrologic Patterns
+<figure>
+	<img src="/images/mills/slope.png">
+	<figcaption>Average slopes of streams for all mill locations in each county.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/mills/total_drainage.png">
+	<figcaption>Total drainage of streams for all mill locations in each county.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/mills/grist_and_saw_mills.png">
+	<figcaption>A comparison of grist mills, saw mills, grist saw mill combinations, and other mills for each survey county and year. The mills are represented as points on a logarithmically scaled scatter plot, showing total drainage area (y axis) and slope (x axis) for the related stream segment.</figcaption>
+</figure>
