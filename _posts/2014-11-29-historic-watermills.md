@@ -18,7 +18,10 @@ The stream network of the Mid-Atlantic region saw the creation of thousands of w
 	<figcaption>The watermill and dam related facilities in this dataset can be classified into six groups, with some dam locations falling into multiple groups.</figcaption>
 </figure>
 
-<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.b20661ea.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
+<figure>
+	<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.b20661ea.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
+	<figcaption>The watermill and dam related facilities in this dataset can be classified into six groups, with some dam locations falling into multiple groups.</figcaption>
+</figure>
 
 Inspiration for this work is derived from a dataset collected by the Historic Sediment and Geomorphology Research Group at Franklin & Marshall College. In this dataset, milldam locations from historical atlases for seven counties in Pennsylvania and Maryland were carefully digitized, and information on year surveyed, watermill type, and watermill name, if available, was recorded.
 
@@ -35,4 +38,19 @@ Inspiration for this work is derived from a dataset collected by the Historic Se
 <figure>
 	<a href="/historic-mills/"><img src="/images/mills/baltimore1863-overview.jpg"></a>
 	<figcaption>Baltimore City and Baltimore County milldam locations in 1863.</figcaption>
+</figure>
+
+<figure>
+	<a href="/historic-mills/"><img src="/images/mills/montgomery1865-overview.jpg"></a>
+	<figcaption>Montgomery County milldam locations in 1865.</figcaption>
+</figure>
+
+<figure>
+	<a href="/historic-mills/"><img src="/images/mills/montgomery1879-overview.jpg"></a>
+	<figcaption>Montgomery County milldam locations in 1879.</figcaption>
+</figure>
+
+<figure>
+	<a href="/historic-mills/"><img src="/images/mills/chester1847-overview.jpg"></a>
+	<figcaption>Chester County milldam locations in 1847.</figcaption>
 </figure>
