@@ -10,15 +10,21 @@ image:
   credit: 
   creditlink: 
 ---
-
 The stream network of the Mid-Atlantic region saw the creation of thousands of watermills from the period of initial European settlement to as late as the early 20th century. These mills were used most commonly for grinding grain, as well as other mechanical processes such as sawing timber into lumber, hammering at iron forges, or manufacturing goods including paper and cotton. A watermill relied on a milldam and millrace to provide the hydrologic potential energy to turn a waterwheel. Processing ore, grain, or timber at the mill automated the otherwise difficult process of manually grinding or sawing and it allowed for the easier transport of goods to market. The prevalence and utility of watermills from the 1600’s to the early 1900’s suggests their importance to historic communities. The intent of this paper is to determine how the location and qualities of these watermills reflected and changed the region’s rural landscape at the time and explore the lasting impact of these mills on our modern landscape.
+
+### The Data
+
+<figure>
+	<a href="/historic-mills/"><img src="/images/mills/mills-overview.jpg"></a>
+	<figcaption>The data from the Historic Sediment and Geomorphology Research Group at Franklin & Marshall College includes 2,274 milldam locations across eight counties from eleven historical atlases.</figcaption>
+</figure>
 
 <figure>
 	<a href="/historic-mills/"><img src="/images/mills/mill-legend.jpg"></a>
 	<figcaption>The watermill and dam related facilities in this dataset can be classified into six groups, with some dam locations falling into multiple groups.</figcaption>
 </figure>
 
-Inspiration for this work is derived from a dataset collected by the Historic Sediment and Geomorphology Research Group at Franklin & Marshall College. In this dataset, milldam locations from historical atlases for seven counties in Pennsylvania and Maryland were carefully digitized, and information on year surveyed, watermill type, and watermill name, if available, was recorded.
+Inspiration for this work is derived from a dataset collected by the Historic Sediment and Geomorphology Research Group at Franklin & Marshall College. In this dataset, milldam locations from historical atlases for eight counties in Pennsylvania and Maryland were carefully digitized, and information on year surveyed, watermill type, and watermill name, if available, was recorded.
 
 ### Baltimore County and Baltimore City, 1857 and 1863
 <figure>
@@ -86,6 +92,12 @@ Inspiration for this work is derived from a dataset collected by the Historic Se
 <figure>
 	<img src="/images/mills/centre1874-overview.jpg">
 	<figcaption>Centre County milldam locations in 1874.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/mills/potter-mills-atlas.jpg">
+	<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.b20661ea.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
+	<figcaption>Above: Historical atlas map of Potter Mills with flour and saw mills labeled. Below: Location of mills in Potter Mills today.</figcaption>
 </figure>
 
 ### Analysis of Hydrologic Patterns
