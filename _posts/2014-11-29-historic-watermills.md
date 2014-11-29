@@ -102,7 +102,7 @@ Inspiration for this work is derived from a dataset collected by the Historic Se
 <figure>
 	<img src="/images/mills/potter-mills-atlas.jpg">
 	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#16/40.7930/-77.6254"></iframe>
-	<figcaption>Above: Historical atlas map of Potter Mills with flour and saw mills labeled. Below: Location of mills in Potter Mills today.</figcaption>
+	<figcaption>Top: Historical atlas map of Potter Mills with flour and saw mills labels highlighted. Bottom: Location of mills in Potter Mills today.</figcaption>
 </figure>
 
 ### Analysis of Hydrologic Patterns
