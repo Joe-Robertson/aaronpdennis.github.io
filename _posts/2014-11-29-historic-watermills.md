@@ -15,6 +15,11 @@ The stream network of the Mid-Atlantic region saw the creation of thousands of w
 ### The Data
 
 <figure>
+	<a href="/historic-mills/"><img src="/images/mills/Potter-atlas.jpg"></a>
+	<figcaption>An example page out of the 1874 Centre County Historical Atlas.</figcaption>
+</figure>
+
+<figure>
 	<a href="/historic-mills/"><img src="/images/mills/mills-overview.jpg"></a>
 	<figcaption>The data from the Historic Sediment and Geomorphology Research Group at Franklin & Marshall College includes 2,274 milldam locations across eight counties from eleven historical atlases.</figcaption>
 </figure>
