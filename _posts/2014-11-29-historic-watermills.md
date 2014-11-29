@@ -64,3 +64,23 @@ Inspiration for this work is derived from a dataset collected by the Historic Se
 	<img src="/images/mills/lancaster1875-overview.jpg">
 	<figcaption>Lancaster County milldam locations in 1875.</figcaption>
 </figure>
+
+<figure>
+	<img src="/images/mills/york1876-overview.jpg">
+	<figcaption>York County milldam locations in 1876.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/mills/cumberland1858-overview.jpg">
+	<figcaption>Cumberland County milldam locations in 1858.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/mills/huntingdon1873-overview.jpg">
+	<figcaption>Huntingdon County milldam locations in 1873.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/mills/centre1874-overview.jpg">
+	<figcaption>Centre County milldam locations in 1874.</figcaption>
+</figure>
