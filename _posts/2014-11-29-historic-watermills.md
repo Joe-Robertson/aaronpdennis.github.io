@@ -73,6 +73,12 @@ A look at other mills from Baltimore's historic atlases reveals milling operatio
 	<figcaption>Montgomery County milldam locations in 1879.</figcaption>
 </figure>
 
+<figure>
+	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#14/39.0721/-77.1060"></iframe>
+	<figcaption>The Veirs ran a significant milling operation on Rock Creek in Montgomery County.</figcaption>
+</figure>
+
+
 ### Chester County, 1847 and 1865
 <figure>
 	<img src="/images/mills/chester1847-overview.jpg">
