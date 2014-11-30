@@ -32,6 +32,13 @@ The stream network of the Mid-Atlantic region saw the creation of thousands of w
 Inspiration for this work is derived from a dataset collected by the Historic Sediment and Geomorphology Research Group at Franklin & Marshall College. In this dataset, milldam locations from historical atlases for eight counties in Pennsylvania and Maryland were carefully digitized, and information on year surveyed, watermill type, and watermill name, if available, was recorded.
 
 ### Baltimore County and Baltimore City, 1857 and 1863
+
+Baltimore was particularly well suited to milling operations (Chidester, 2009). Once focused on flour milling operations, textiles became one of Maryland's most important industries by the mid 19th century. In Baltimore, Jones Falls, Gwynn Falls, Gunpowder Falls, and Patapsco River were important sources of waterpower. Specific products of Baltimore's textile industries included cloth sails for the clipper ships in Baltimore's harbor. Textiles made Maryland the largest manufacturing state in the south and contributed to a fast growing economy.
+
+Whereas in other regions milling operations were largely carried out by individuals or small families who had some success in farming or previous experience as millers, Baltimore milling was characterized by large estates or companies owning and overseeing multiple milling operations. Instead of small facilities transfering from one landholding individual to another, Baltimore's factory mills large-scale industrial projects sensitive to market influences and transferred between large companies that usually had stake in multiple operations.
+
+The Ellicott family was an example of an estate with large industrial holdings. This family rose to prominence with early success in Maryland's merchant flour industry (Sharp, 1998). 
+
 <figure>
 	<img src="/images/mills/baltimore1857-overview.jpg">
 	<figcaption>Baltimore City and Baltimore County milldam locations in 1857.</figcaption>
@@ -88,12 +95,14 @@ Inspiration for this work is derived from a dataset collected by the Historic Se
 </figure>
 
 ### Huntingdon County 1873
+
 <figure>
 	<img src="/images/mills/huntingdon1873-overview.jpg">
 	<figcaption>Huntingdon County milldam locations in 1873.</figcaption>
 </figure>
 
 ### Centre County, 1874
+
 <figure>
 	<img src="/images/mills/centre1874-overview.jpg">
 	<figcaption>Centre County milldam locations in 1874.</figcaption>
@@ -120,3 +129,9 @@ Inspiration for this work is derived from a dataset collected by the Historic Se
 	<img src="/images/mills/grist_and_saw_mills.png">
 	<figcaption>A comparison of grist mills, saw mills, grist saw mill combinations, and other mills for each survey county and year. The mills are represented as points on a logarithmically scaled scatter plot, showing total drainage area (y axis) and slope (x axis) for the related stream segment.</figcaption>
 </figure>
+
+### Sources
+
+Chidester, R. (2009). CLASS, COMMUNITY, AND MATERIALITY IN A BLUE-COLLAR BALTIMORE NEIGHBORHOOD: AN ARCHAEOLOGY OF HAMPDEN-WOODBERRY. Retrieved November 22, 2014, from https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http://deepblue.lib.umich.edu/bitstream/handle/2027.42/63862/rchidest_1.pdf?sequence=1&ei=k456VPe6NPiTsQTj1oFw&usg=AFQjCNFxptb8J8EIVzN7VEJmXl7UpJdXcg&sig2=wDRvJFuNAPz0fco03MsHDA&bvm=bv.80642063,d.cWc
+
+Sharp, H. (1998). GRANITE MANUFACTURING COMPANY/ELLICOTT IRON ROLLING AND SLITTING MILL. Retrieved November 22, 2014, from http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/024000/024200/024253/pdf/msa_se5_24253.pdf
