@@ -37,7 +37,12 @@ Baltimore was particularly well suited to milling operations (Chidester, 2009). 
 
 Whereas in other regions milling operations were largely carried out by individuals or small families who had some success in farming or previous experience as millers, Baltimore milling was characterized by large estates or companies owning and overseeing multiple milling operations. Instead of small facilities transfering from one landholding individual to another, Baltimore's factory mills large-scale industrial projects sensitive to market influences and transferred between large companies that usually had stake in multiple operations.
 
-The Ellicott family was an example of an estate with large industrial holdings. This family rose to prominence with early success in Maryland's merchant flour industry (Sharp, 1998). 
+The Ellicott family was an example of an estate with large industrial holdings. This family rose to prominence with early success in Maryland's merchant flour industry (Sharp, 1998). Success in the flour industry allowed the Ellicott's to move into industrial operations such as nail manufacture and metalworking.
+
+<figure>
+	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#17/39.22564/-76.71805"></iframe>
+	<figcaption>The Avalon Iron Works, originally Dorsey's Forge, was at one point purchased by the Ellicott family.
+</figure>
 
 <figure>
 	<img src="/images/mills/baltimore1857-overview.jpg">
