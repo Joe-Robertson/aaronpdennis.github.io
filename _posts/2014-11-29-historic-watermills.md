@@ -86,7 +86,7 @@ A look at other mills from Baltimore's historic atlases reveals milling operatio
 </figure>
 
 <figure>
-	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#15/39.9756/-75.4970"></iframe>
+	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#15/39.9737/-75.4972"></iframe>
 	<figcaption>Ridley Creek in eastern Chester County.</figcaption>
 </figure>
 
