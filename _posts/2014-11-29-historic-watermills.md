@@ -54,14 +54,12 @@ Whereas in other regions milling operations were largely carried out by individu
 
 The Ellicott family was an example of an estate with large industrial holdings. This family rose to prominence with early success in Maryland's merchant flour industry (Sharp, 1998). Success in the flour industry allowed the Ellicotts to move into industrial operations such as nail manufacture and metalworking. Financial panic in 1837 led to the Ellicotts losing much of their holdings, including their rolling mill facility, which was acquired by a group of investors. Metalworks such as the rolling mill facility were transitioned into textile facilities and other industrial operations in the later 19th century as baltimore's industries diversified.
 
-A look at other mills from Baltimore's historic atlases reveals milling operations with labels such as "Maryland Machine Manufactory Company" and "F.W. Hook & Co. Cotton & Yarn Fact." reveal the industrial nature of the operations. Other milling operations were also large scale, but were run by a single family. Samuel Owings II built his first mill in 1770 and his family would continue milling operations until approximately 1850. The Owings property included a main house, a tenant house, and a two story slave house (McGrain, 1987).
-
 <figure>
 	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#18/39.40033/-76.79597"></iframe>
 	<figcaption>At one point between 1770 and 1850, the Owings Family ran at least six mills in their area surrounding their home.
-	</figure>
+</figure>
 
-
+A look at other mills from Baltimore's historic atlases reveals milling operations with labels such as "Maryland Machine Manufactory Company" and "F.W. Hook & Co. Cotton & Yarn Fact." reveal the industrial nature of the operations. Other milling operations were also large scale, but were run by a single family. Samuel Owings II built his first mill in 1770 and his family would continue milling operations until approximately 1850. The Owings property included a main house, a tenant house, and a two story slave house (McGrain, 1987).
 
 ### Montgomery County, 1865 and 1879
 
