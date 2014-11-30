@@ -79,15 +79,10 @@ A look at other mills from Baltimore's historic atlases reveals milling operatio
 </figure>
 
 
-### Chester County, 1847 and 1865
+### Chester County, 1847
 <figure>
 	<img src="/images/mills/chester1847-overview.jpg">
 	<figcaption>Chester County milldam locations in 1847.</figcaption>
-</figure>
-
-<figure>
-	<img src="/images/mills/chester1865-overview.jpg">
-	<figcaption>Chester County milldam locations in 1865.</figcaption>
 </figure>
 
 <figure>
@@ -95,6 +90,10 @@ A look at other mills from Baltimore's historic atlases reveals milling operatio
 	<figcaption>Ridley Creek in eastern Chester County.</figcaption>
 </figure>
 
+<figure>
+	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#15/39.9312/-75.8359"></iframe>
+	<figcaption>A group of paper mills along the upper stretches of Buck Run.</figcaption>
+</figure>
 
 
 ### Lancaster County, 1864 and 1875
