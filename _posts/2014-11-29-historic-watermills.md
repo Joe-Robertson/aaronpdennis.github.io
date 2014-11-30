@@ -54,6 +54,15 @@ Whereas in other regions milling operations were largely carried out by individu
 
 The Ellicott family was an example of an estate with large industrial holdings. This family rose to prominence with early success in Maryland's merchant flour industry (Sharp, 1998). Success in the flour industry allowed the Ellicotts to move into industrial operations such as nail manufacture and metalworking. Financial panic in 1837 led to the Ellicotts losing much of their holdings, including their rolling mill facility, which was acquired by a group of investors. Metalworks such as the rolling mill facility were transitioned into textile facilities and other industrial operations in the later 19th century as baltimore's industries diversified.
 
+A look at other mills from Baltimore's historic atlases reveals milling operations with labels such as "Maryland Machine Manufactory Company" and "F.W. Hook & Co. Cotton & Yarn Fact." reveal the industrial nature of the operations. Other milling operations were also large scale, but were run by a single family. Samuel Owings II built his first mill in 1770 and his family would continue milling operations until approximately 1850. The Owings property included a main house, a tenant house, and a two story slave house (McGrain, 1987).
+
+<figure>
+	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#18/39.40033/-76.79597"></iframe>
+	<figcaption>At one point between 1770 and 1850, the Owings Family ran at least six mills in their area surrounding their home.
+	</figure>
+
+
+
 ### Montgomery County, 1865 and 1879
 
 <figure>
@@ -121,6 +130,7 @@ The Ellicott family was an example of an estate with large industrial holdings. 
 </figure>
 
 ### Analysis of Hydrologic Patterns
+
 <figure>
 	<img src="/images/mills/slope.png">
 	<figcaption>Average slopes of streams for all mill locations in each county.</figcaption>
@@ -141,3 +151,5 @@ The Ellicott family was an example of an estate with large industrial holdings. 
 Chidester, R. (2009). CLASS, COMMUNITY, AND MATERIALITY IN A BLUE-COLLAR BALTIMORE NEIGHBORHOOD: AN ARCHAEOLOGY OF HAMPDEN-WOODBERRY. Retrieved November 22, 2014, from https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http://deepblue.lib.umich.edu/bitstream/handle/2027.42/63862/rchidest_1.pdf?sequence=1&ei=k456VPe6NPiTsQTj1oFw&usg=AFQjCNFxptb8J8EIVzN7VEJmXl7UpJdXcg&sig2=wDRvJFuNAPz0fco03MsHDA&bvm=bv.80642063,d.cWc
 
 Sharp, H. (1998). GRANITE MANUFACTURING COMPANY/ELLICOTT IRON ROLLING AND SLITTING MILL. Retrieved November 22, 2014, from http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/024000/024200/024253/pdf/msa_se5_24253.pdf
+
+McGrain, J. (1987). THE MEADOWS. Retrieved November 22, 2014, from http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/003000/003200/003258/pdf/msa_se5_3258.pdf
