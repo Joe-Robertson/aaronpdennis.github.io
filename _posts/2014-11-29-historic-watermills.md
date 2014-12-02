@@ -36,6 +36,7 @@ A watermill in the mid-19th century consisted of a dam and pond to create hydrol
 </figure>
 
 The data collected by the Franklin and Marshall research group shows over 2,00 milldam locations for eleven historical atlases with dozens of unique mill types. To analyze and visualize this data, each watermill and milldam data point was assigned membership to one or, in the case of multi-industry mills, multiple categories. These categories are as follows:
+  
 
 Agriculture (represented in green)
 
@@ -47,12 +48,16 @@ Agriculture (represented in green)
 - Chopping mills
 - Distilleries
 
+  
+
 Timber (represented in orange)
 
 - Saw mill
 - Shingle mill
 - Bark mill
 - Lathes
+
+  
 
 Factory (represented in purple)
 
@@ -69,6 +74,8 @@ Factory (represented in purple)
 - Fulling mill
 - Carding mill
 
+  
+
 Mining (represented in pink)
 
 - Furnace
@@ -81,6 +88,8 @@ Mining (represented in pink)
 - Rolling mill
 - Tile mill
 
+  
+
 Water transport or storage (represented in blue)
 
 - Splash dam
@@ -88,11 +97,15 @@ Water transport or storage (represented in blue)
 - Pond
 - Reservoir
 
+  
+
 Unknown (represented in grey)
 
 - Mill
 - Unknown
 - Other
+
+  
 
 Placing these mills on a map, comparing them to modern hydrology, and searching for stories of these historic locations begins to provide and understanding of the mid-19th century watermill. This data and the histories behind it can help answer questions about what role watermills played in local landscapes, who shaped the milling industry, how did place effect the potential for certain types of milling operations, and how the milling industry varied across space.
 
