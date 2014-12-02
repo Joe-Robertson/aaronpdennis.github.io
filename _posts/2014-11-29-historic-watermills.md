@@ -110,7 +110,7 @@ Unknown (represented in grey)
 Placing these mills on a map, comparing them to modern hydrology, and searching for stories of these historic locations begins to provide and understanding of the mid-19th century watermill. This data and the histories behind it can help answer questions about what role watermills played in local landscapes, who shaped the milling industry, how did place effect the potential for certain types of milling operations, and how the milling industry varied across space.
 
 <figure>
-	<iframe width="100%" height="700px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#9/39.7135/-76.9551"></iframe>
+	<iframe width="100%" height="700px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#8/40.019/-77.011"></iframe>
 	<figcaption>The data from the Historic Sediment and Geomorphology Research Group at Franklin & Marshall College includes 2,274 milldam locations across eight counties from eleven historical atlases.</figcaption>
 </figure>
 
