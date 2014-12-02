@@ -30,11 +30,6 @@ These atlases were more accurate in urban areas and along major roads, as well a
 
 A watermill in the mid-19th century consisted of a dam and pond to create hydrologic potential energy, a sluice to carry the water to the watermill, a waterwheel to turn and power the mill, and a tailrace to carry the water back into the stream or river. Building or operating a mill would have required some expertise, a suitable plot of land, and enough capital to invest in the necessary parts. Mills varied from industrial operations in large cities to small handcrafted structures in the backwoods.
 
-<figure>
-	<img src="/images/mills/mill-legend.jpg">
-	<figcaption>The watermill and dam related facilities in this dataset can be classified into six groups, with some dam locations falling into multiple groups.</figcaption>
-</figure>
-
 The data collected by the Franklin and Marshall research group shows over 2,00 milldam locations for eleven historical atlases with dozens of unique mill types. To analyze and visualize this data, each watermill and milldam data point was assigned membership to one or, in the case of multi-industry mills, multiple categories. These categories are as follows:
   
 
@@ -108,6 +103,11 @@ Unknown (represented in grey)
   
 
 Placing these mills on a map, comparing them to modern hydrology, and searching for stories of these historic locations begins to provide and understanding of the mid-19th century watermill. This data and the histories behind it can help answer questions about what role watermills played in local landscapes, who shaped the milling industry, how did place effect the potential for certain types of milling operations, and how the milling industry varied across space.
+
+<figure>
+	<img src="/images/mills/mill-legend.jpg">
+	<figcaption>The watermill and dam related facilities in this dataset can be classified into six groups, with some dam locations falling into multiple groups.</figcaption>
+</figure>
 
 <figure>
 	<iframe width="100%" height="700px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#8/40.019/-77.011"></iframe>
