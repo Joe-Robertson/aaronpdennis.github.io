@@ -107,6 +107,12 @@ A look at other mills from Baltimore's historic atlases reveals milling operatio
 	<figcaption>Lancaster County milldam locations in 1875.</figcaption>
 </figure>
 
+<figure>
+	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#16/40.0308/-76.3435"></iframe>
+	<figcaption>The Stoneroads Grist Mill, just west of Lancaster City along the </figcaption>
+</figure>
+<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.b20661ea.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
+
 ### York County, 1876
 <figure>
 	<img src="/images/mills/york1876-overview.jpg">
