@@ -111,7 +111,6 @@ A look at other mills from Baltimore's historic atlases reveals milling operatio
 	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#16/40.0308/-76.3435"></iframe>
 	<figcaption>The Stoneroads Grist Mill, just west of Lancaster City along the </figcaption>
 </figure>
-<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.b20661ea.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
 
 ### York County, 1876
 <figure>
@@ -124,6 +123,12 @@ A look at other mills from Baltimore's historic atlases reveals milling operatio
 	<img src="/images/mills/cumberland1858-overview.jpg">
 	<figcaption>Cumberland County milldam locations in 1858.</figcaption>
 </figure>
+
+<figure>
+	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#13/40.0291/-77.2975"></iframe>
+	<figcaption>The Stoneroads Grist Mill, just west of Lancaster City along the </figcaption>
+</figure>
+
 
 ### Huntingdon County 1873
 
