@@ -195,7 +195,7 @@ Spatial patterns of watermills in the county reveal higher prevalence of agricul
 Today, sediment erosion along many of these streams has significantly detrimental impacts on the ecosystem health of the Chesapeake Bay and Susquehanna River. Researchers have identified the legacy sediments that accumulated behind milldams as the primary source of these erosional sediments and have begun efforts to restore the stream banks to healthier conditions, ideally similar to the landscape encountered by original European settlers. Marshy, meandering streams and wetlands characterized this sort of landscape with bedrock streambeds in valley bottoms. Watermills and dams by European settlers filled streambeds with sediment and often caused the straightening and repositioning of stream channels to create more space for farm fields and roads (Little Chiques Creek Watershed Rivers Conservation Plan, 2005).
 
 <figure>
-	<img src="/images/mills/stoneroads-mill.jpg">
+	<img src="/images/mills/stoneroads-mill.png">
 	<figcaption>The Stoneroads Grist Mill and covered bridge, pictured here on a postcard. Source: millpictures.com</figcaption>
 </figure>
 
@@ -207,24 +207,33 @@ Lancaster County is well known for its covered bridges, which were often built t
 </figure>
 
 ### York County, 1876
+
+The dendritic stream network in York County was similar to the hydrography of Lancaster and Chester Counties and created ample potential for watermills. In the more rugged north and south timber mills abound, while the wider valleys in the middle of the county feature primarily agricultural mills.
+
 <figure>
 	<img src="/images/mills/york1876-overview.jpg">
 	<figcaption>York County milldam locations in 1876.</figcaption>
 </figure>
 
 ### Cumberland County, 1858
+
+The hydrology of Cumberland County is unique because it is defined by two major waterways, The Conodoguinet Creek in the north and the Yellow Breeches Creek in the south. Hills and ridges define the northern and southern boundaries. The central Cumberland Valley is prime land for agriculture, as evidenced by the grist mills on the few streams in this part of the county. The ridges and hills were better suited for timbering, being less arable. Many the more remote locations in the county featured a small saw mill, usually represented as a humble “S.” on the historical atlas.
+
 <figure>
 	<img src="/images/mills/cumberland1858-overview.jpg">
 	<figcaption>Cumberland County milldam locations in 1858.</figcaption>
 </figure>
+
+Mountain Creek, in the south of the county, was unique in that there were six recorded paper mills along the stream in 1858 and mining related operations at its headwaters near Pine Grove Furnace. The first furnace was built in the Pine Grove area was established in 1764. By 1782, Michael Ege, an iron mogul, had purchased the works, which were then inherited by his son Peter. Peter Ege then built Laurel Forge, just down the stream from Pine Grove Furnace, in 1830 (DCNR, 2013).
 
 <figure>
 	<iframe width="100%" height="450px" frameBorder="0" src="https://api.tiles.mapbox.com/v4/aarondennis.b20661ea/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#13/40.0291/-77.2975"></iframe>
 	<figcaption>The Stoneroads Grist Mill, just west of Lancaster City along the </figcaption>
 </figure>
 
-
 ### Huntingdon County 1873
+
+Beyond the fertile plains of the Piedmont region, timber was the dominant industry in Huntingdon County. On the historical atlases, many of the mills in Huntingdon County are only labeled as saw or grist, not by the name of an operator. This suggests these mills were operated by large enterprises for the specific purpose of processing timber from the surrounding hillsides. The lumber would have then been transported to the Juniata River and rafted downstream.
 
 <figure>
 	<img src="/images/mills/huntingdon1873-overview.jpg">
@@ -233,10 +242,14 @@ Lancaster County is well known for its covered bridges, which were often built t
 
 ### Centre County, 1874
 
+Center County, like Huntingdon County, is dominated by saw mills. The area near Bellefonte and Milesburg shows diverse factory milling operations. In the northern backwoods of the county, some splash dams can be found.
+
 <figure>
 	<img src="/images/mills/centre1874-overview.jpg">
 	<figcaption>Centre County milldam locations in 1874.</figcaption>
 </figure>
+
+The small community of Potter Mills was typical of the villages tucked away among the ridges of this region in many ways. General Potter originally established the village in 1770 and built a grist and saw mill there eight years later. William J. Thompson and his brother, both businessmen, acquired Potter’s original mills in 1861. These mills and the surrounding community would have been the locus of commercial activity in the region, as evidenced by features such as the “W.J. Thompson & Bro Lumber Track” leading out of the mountains and towards the saw mill (Illingworth, 1896). 
 
 <figure>
 	<img src="/images/mills/potter-mills-atlas.jpg">
@@ -246,25 +259,55 @@ Lancaster County is well known for its covered bridges, which were often built t
 
 ### Analysis of Hydrologic Patterns
 
+Based on modern hydrologic data, several patterns become clear in the locations of mid 19th century watermills. For the following figures and analyses, the mills data was split by atlas and information about the slope and drainage of each mill’s adjacent stream was considered.
+
+Of all the counties, Center and Huntingdon had the steepest streams adjacent to mills. These counties are both entirely within the ridge and valley province, and mills were often located high along mountain streams among the ridges. York and Cumberland Counties also had slightly steeper streams, both having a somewhat rugged topography.
+
 <figure>
 	<img src="/images/mills/slope.png">
 	<figcaption>Average slopes of streams for all mill locations in each county.</figcaption>
 </figure>
+
+Cumberland County is located at the end of the Cumberland Valley, giving streams like the Conodoguinet a large drainage area. Baltimore County also has several large streams, well suited to providing power for its extensive factory mills. Counties with high average values of stream slope but low drainage areas likely had more intermittent streams than other regions.
 
 <figure>
 	<img src="/images/mills/total_drainage.png">
 	<figcaption>Total drainage of streams for all mill locations in each county.</figcaption>
 </figure>
 
+The two most prevalent watermills were the grist mill, saw mill, and grist-saw mill combination. Plotting stream slope and drainage area for each of these mill types reveals characteristics of the milling industry for each county. In Baltimore County, these types of mills are less common than others and are rarely located on the largest or steepest streams. All counties had saw mills occurring on steeper slopes than gristmills. The raw product for saw mills, timber, is expected to have occurred on hill slopes and mountains, places unsuited to growing the corn ground in gristmills. Lancaster and Chester Counties had by far the most gristmills and combination mills, although Centre and Huntingdon Counties had the most saw mills.
+
 <figure>
 	<img src="/images/mills/grist_and_saw_mills.png">
 	<figcaption>A comparison of grist mills, saw mills, grist saw mill combinations, and other mills for each survey county and year. The mills are represented as points on a logarithmically scaled scatter plot, showing total drainage area (y axis) and slope (x axis) for the related stream segment.</figcaption>
 </figure>
 
+### Conclusion
+
+It is important to note the limitations of the historical atlases dataset. First, the historical atlases may not have included every mill or milldam. It is uncertain if only the largest of mills were included, although it seems likely every effort was made to record all mills and significant landmarks. Second, the milldam location data provides no indication of how large the operation was, besides what can be inferred from the name of the facility and its proximity to market and hydrography. County borders have an edge affect making it impossible to know from these atlases what mills or towns were a few steps across the border. It is also clear that by the mid-19th century, most mills were not under the original ownership, but usually had been inherited, bankrupted, or sold with the typical result being the facility transferring to a larger business or wealthier owner.
+
+However, the thousands of milldams included in this analysis and the specific histories of these locations make several patterns clear. Factories were located close to market and paper mills were located close to clean water. Agricultural mills dominated the rural valley landscape and timber mills were prevalent especially along mountain streams. Mining operations occurred in clusters close to the resource and were usually under control of a single operation. Mills were the economic center of the rural landscape and when these mills were successful, rural communities would develop around them. The specific histories of these mills also reveal that milling required investment in capital that few could afford, but those who found success would be able to expand their operations and add to their estate.
+
+The watermill shaped the physical, economic, and cultural landscape in the Mid-Atlantic perhaps more than any other structure at this time. It encouraged the building of roads, bridges, and communities. It allowed people to process raw material into valuable products faster than any other means until the advent of fossil fuels. It served as the economic driver behind communities and estates that have had lasting impacts of, at the least, leave their names on the landscape today. And it altered the physical landscape through the straightening of stream channels and deposition of many feet of sediment across valley bottoms. This too easily forgotten landmark of a pre-industrial area was at the heart of history’s landscapes and leaves a lasting legacy.
+
 ### Sources
 
-Chidester, R. (2009). CLASS, COMMUNITY, AND MATERIALITY IN A BLUE-COLLAR BALTIMORE NEIGHBORHOOD: AN ARCHAEOLOGY OF HAMPDEN-WOODBERRY. Retrieved November 22, 2014, from https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http://deepblue.lib.umich.edu/bitstream/handle/2027.42/63862/rchidest_1.pdf?sequence=1&ei=k456VPe6NPiTsQTj1oFw&usg=AFQjCNFxptb8J8EIVzN7VEJmXl7UpJdXcg&sig2=wDRvJFuNAPz0fco03MsHDA&bvm=bv.80642063,d.cWc
+Chidester, R. (2009). Class, community, and materiality in a blue-collar Baltimore neighborhood: an archaeology of Hampden-Woodberry. Retrieved November 22, 2014, from https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http://deepblue.lib.umich.edu/bitstream/handle/2027.42/63862/rchidest_1.pdf?sequence=1&ei=k456VPe6NPiTsQTj1oFw&usg=AFQjCNFxptb8J8EIVzN7VEJmXl7UpJdXcg&sig2=wDRvJFuNAPz0fco03MsHDA&bvm=bv.80642063,d.cWc
 
-Sharp, H. (1998). GRANITE MANUFACTURING COMPANY/ELLICOTT IRON ROLLING AND SLITTING MILL. Retrieved November 22, 2014, from http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/024000/024200/024253/pdf/msa_se5_24253.pdf
+DCNR (2013). Pine Grove Furnace State Park History. Retrieved November 22, 2014 from http://www.dcnr.state.pa.us/cs/groups/public/documents/document/dcnr_003378.pdf
 
-McGrain, J. (1987). THE MEADOWS. Retrieved November 22, 2014, from http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/003000/003200/003258/pdf/msa_se5_3258.pdf
+Illingworth, Ralph W. (1896). A Passing Glance at Penn's Valley, Milton, PA: Milton Printing Co. Retrieved November 22, 2014 from http://www.livingplaces.com/PA/Centre_County/Potter_Township/Potters_Mills.html
+
+Little Chiques Creek Watershed Rivers Conservation Plan (2005). Retrieved November 22, 2014 from http://www.lancasterwatersheds.org/2.Little%20Chiques%20Cr.%20Conservation%20Plan%20-%20Final%20Report.pdf
+
+McGrain, J. (1987). The meadows. Retrieved November 22, 2014, from http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/003000/003200/003258/pdf/msa_se5_3258.pdf
+
+Montgomery County Mill Chapter (2006).  Retrieved November 22, 2014 from http://msa.maryland.gov/megafile/msa/speccol/sc4300/sc4300/000005/000000/000011/unrestricted/montgomery%20mills%20to%20edit.pdf
+
+Sharp, H. (1998). Granite manufacturing company/Ellicott iron rolling and slitting mill. Retrieved November 22, 2014, from http://msa.maryland.gov/megafile/msa/stagsere/se1/se5/024000/024200/024253/pdf/msa_se5_24253.pdf
+
+Stoneroad’s Mill (2009). Retrieved November 29, 2014 from http://millpictures.com/mills.php?millid=712
+
+The Gombach Group (2008). Okehocking historic district. Retrieved November 22, 2014 from http://www.livingplaces.com/PA/Chester_County/Willistown_Township/Okehocking_Historic_District.html
+
+Wentz-Eisenstadt, C. (2009). Chester County, Pennsylvania mills. Retrieved November 22, 2014 from http://www.rootsweb.ancestry.com/~pacheste/chester_mills.htm
