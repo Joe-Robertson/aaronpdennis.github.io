@@ -33,7 +33,7 @@ Each terrain version has its strengths. A workaround that realizes the benefits 
 
 The issue here is that `#hillshade` will reference two different layers. V1's four classes of hillshade polygons can be identified uniquely as either `full_highlight`, `medium_highlight`, `medium_shadow`, or `full_shadow`. V2 terrain has six unique levels of lightness. If you're looking to inlcude `#contour` or `#landcover`, this method will result in each version rendering on the map, causing confusing overlap. V2 will have more detailed versions of these layers than V1.
 
-
+<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.670c48aa.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
 
 The CartoCSS used to style the terrain hillshades in the map above is shown below.
 
