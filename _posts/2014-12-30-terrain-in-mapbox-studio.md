@@ -37,9 +37,8 @@ The issue here is that `#hillshade` will reference two different layers. V1's fo
 
 The CartoCSS used to style the terrain hillshades in the map above is shown below.
 
-```css
+``` css
 #hillshade {
-  ///*
   [class='full_shadow'] {
     polygon-fill: #202020;
     polygon-opacity: 0.1;
@@ -56,9 +55,7 @@ The CartoCSS used to style the terrain hillshades in the map above is shown belo
     polygon-fill: #fff;
     polygon-opacity: 0.2;
   }
-  //*/
   
-  ///*
   [level=94] { 
     polygon-opacity: 0.1; 
     polygon-fill: #fff; 
@@ -83,7 +80,6 @@ The CartoCSS used to style the terrain hillshades in the map above is shown belo
     polygon-opacity: 0.2; 
     polygon-fill: #000000; 
   }
-  //*/ 
   comp-op: hard-light;
 }
 ```
