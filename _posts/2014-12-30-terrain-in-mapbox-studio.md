@@ -39,6 +39,54 @@ The CartoCSS used to style the terrain hillshades in the map above:
 
 ``` css
 #hillshade {
+[class='full_shadow'] {
+polygon-fill: #202020;
+polygon-opacity: 0.1;
+}
+[class='medium_shadow'] {
+polygon-fill: #464646;
+polygon-opacity: 0.05;
+}
+[class='medium_highlight'] {
+polygon-fill: #fff;
+polygon-opacity: 0.05;
+}
+[class='full_highlight'] {
+polygon-fill: #fff;
+polygon-opacity: 0.2;
+}
+
+[level=94] { 
+polygon-opacity: 0.1; 
+polygon-fill: #fff; 
+}
+[level=90] { 
+polygon-opacity: 0.1; 
+polygon-fill: #939393; 
+}
+[level=89] { 
+polygon-opacity: 0.13; 
+polygon-fill: #4f4f4f; 
+}
+[level=78] { 
+polygon-opacity: 0.15; 
+polygon-fill: #3b3b3b; 
+}
+[level=67] { 
+polygon-opacity: 0.175; 
+polygon-fill: #171717; 
+}
+[level=56] { 
+polygon-opacity: 0.2; 
+polygon-fill: #000000; 
+}
+comp-op: hard-light;
+}
+```
+
+
+``` css
+#hillshade {
   [class='full_shadow'] {
     polygon-fill: #202020;
     polygon-opacity: 0.1;
