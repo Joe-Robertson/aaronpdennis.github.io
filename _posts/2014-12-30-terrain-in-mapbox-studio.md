@@ -35,9 +35,9 @@ The issue here is that `#hillshade` will reference two different layers. V1's fo
 
 <iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.670c48aa.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
 
-The CartoCSS used to style the terrain hillshades in the map above is shown below.
+The CartoCSS used to style the terrain hillshades in the map above:
 
-```
+``` css
 #hillshade {
   [class='full_shadow'] {
     polygon-fill: #202020;
