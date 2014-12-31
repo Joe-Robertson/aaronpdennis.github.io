@@ -10,7 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
-Mapbox Studio provides access to vector hillshades for styling maps with terrain. The <a href="https://www.mapbox.com/blog/mapbox-terrain-data-update/">most recent global vector terrain dataset</a>, Mapbox Terrain Version 2, is designed to provide "twice as much shadow detail and is based on a combined hill-shading and slope-shading technique that allows for better emphasis in areas of steep terrain." This looks great on the big mountains, but it comes at the small sacrifice of detail on softer landscapes. 
+Mapbox Studio provides access to vector hillshades for styling maps with terrain. The <a href="https://www.mapbox.com/blog/mapbox-terrain-data-update/">most recent global vector terrain dataset</a>, Mapbox Terrain Version 2, is designed to provide "twice as much shadow detail and is based on a combined hill-shading and slope-shading technique that allows for better emphasis in areas of steep terrain." This looks great on the big mountains, but it comes with the sacrifice of detail on softer landscapes. 
 
 In the maps below, terrain with Version 1 reveals rolling hills in the valleys between ridges. Mapbox Terrain Version 2 provides sharp detail along the ridges, but seems to flatten the valleys.
 
@@ -24,7 +24,7 @@ In the maps below, terrain with Version 1 reveals rolling hills in the valleys b
 	<figcaption>Mapbox Terrain V2</figcaption>
 </figure>
 
-Each terrain version has its strengths. A workaround that realizes the benefits of both is to reference `mapbox.mapbox-terrain-v1,mapbox.mapbox-terrain-v2` as sources for your Mapbox Studio project. This allows you to render both as layers on your map.
+Each terrain version has its strengths. A workaround that realizes the benefits of both is to reference `mapbox.mapbox-terrain-v1,mapbox.mapbox-terrain-v2` as sources for your Mapbox Studio project. This allows you to render both hillshades as layers on your map.
 
 <figure>
 	<img src="/images/mapbox-terrain/ridge-valley-v1v2.png">
