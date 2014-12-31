@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Historic Mid-Atlantic Watermills
-excerpt: "A look at the role watermills played in the 19th century Mid-Atlantic landscape."
-modified: 2014-11-01
-tags: [aaron dennis, jekyll, watermills, mills, milldams, maps, historic, pennsylvania, maryland]
+title: Terrain in Mapbox Studio
+excerpt: "A look at Mapbox Terrain Version 1 and Version 2."
+modified: 2014-12-30
+tags: [aaron dennis, mapbox, terrain, cartography]
 comments: true
 image:
   feature: 
   credit: 
   creditlink: 
 ---
-The stream network of the Mid-Atlantic region saw the creation of thousands of watermills from the period of initial European settlement to as late as the early 20th century. These mills were used most commonly for grinding grain, as well as other mechanical processes such as sawing timber into lumber, hammering at iron forges, or manufacturing goods including paper and cotton. A watermill relied on a milldam and millrace to provide the hydrologic potential energy to turn a waterwheel. Processing ore, grain, or timber at the mill automated the otherwise difficult process of manually grinding or sawing and it allowed for the easier transport of goods to market. The prevalence and utility of watermills from the 1600’s to the early 1900’s suggests their importance to historic communities. The intent of this paper is to determine how the location and qualities of these watermills reflected and changed the region’s rural landscape and explore the lasting impact of these mills on our modern landscape.
+Mapbox Studio provides access to vector hillshades for styling maps with terrain. The most recent global vector terrain dataset, Version 2, uses incredibly high resolution elevation data and is designed to provide "twice as much shadow detail and is based on a combined hill-shading and slope-shading technique that allows for better emphasis in areas of steep terrain." This looks great on the big mountains, but it comes at a small sacrifice of detail on softer landscapes.
+
+<figure>
+	<img src="/images/"
 
 ### The Data
 
