@@ -14,6 +14,24 @@ image:
 
 ---
 
+### [Advantaged and Disadvantaged Public Schools: Expenditures per pupil]({{ site.url }}/public-school-funding/)
+
+<figure>
+  <a href="/public-school-funding/"><img src="/images/"></a>
+  <figcaption>A map of Census data showing every US school district and the amount of funding that goes to their students.</figcaption>
+</figure>
+
+---
+
+### [Figures for Cartography Book]({{ site.url }}/cartography-book-figures/)
+
+<figure>
+	<a href="/cartography-book-figures/"><img src="/images/dbm2-book-figures/dbm2-wide.jpg"></a>
+	<figcaption>I've been working with Cindy Brewer in the Gould Center at Penn State to help rewrite her book, Designing Better Maps, published by Esri Press. These are some of the figures I've created to explain color decisions for maps.</figcaption>
+</figure>
+
+---
+
 ### [Grayscale Maps of Study Regions]({{ site.url }}/grayscale-maps/)
 
 <figure>
@@ -46,15 +64,6 @@ image:
 <figure>
 	<a href="/njokamoni/"><img src="/images/njokamoni/njokamoni-wide.png"></a>
 	<figcaption>I had the chance to spend six weeks in Tanzania, four of those in the villages of Man'gula A and Man'gula B in the Kilombero Valley adjacent to Udzungwa Mountains National Park.</figcaption>
-</figure>
-
----
-
-### [Figures for Cartography Book]({{ site.url }}/cartography-book-figures/)
-
-<figure>
-	<a href="/cartography-book-figures/"><img src="/images/dbm2-book-figures/dbm2-wide.jpg"></a>
-	<figcaption>I've been working with Cindy Brewer in the Gould Center at Penn State to help rewrite her book, Designing Better Maps, published by Esri Press. These are some of the figures I've created to explain color decisions for maps.</figcaption>
 </figure>
 
 ---
