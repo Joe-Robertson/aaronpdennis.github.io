@@ -14,7 +14,7 @@ image:
 
 ---
 
-### [Advantaged and Disadvantaged Public Schools: Expenditures per pupil]({{ site.url }}/public-school-funding/)
+### [Public School Expenditures per Student]({{ site.url }}/public-school-funding/)
 
 <figure>
   <a href="/public-school-funding/"><img src="/images/schools-wide.png"></a>
