@@ -17,7 +17,7 @@ This figure demonstrates a diverging color scheme.
 	<a href="/images/dbm2-book-figures/atlanta-diverging.jpg"><img src="/images/dbm2-book-figures/atlanta-diverging.jpg"></a>
 </figure>
 
-The new book includes a new section on bivariate choropleth mapping. Cindy has worked extensively with <a href="www.colorbrewer2.org">color schemes for maps</a>. Bivariate maps, however, require different considerations and we're still trying to figure it out.
+The new book includes a new section on bivariate choropleth mapping. Cindy has worked extensively with <a href="http://www.colorbrewer2.org">color schemes for maps</a>. Bivariate maps, however, require different considerations and we're still trying to figure it out.
 <figure>
 	<a href="/images/dbm2-book-figures/baltimore-bivariate.jpg"><img src="/images/dbm2-book-figures/baltimore-bivariate.jpg"></a>
 </figure>
