@@ -17,7 +17,7 @@ image:
 ### [Advantaged and Disadvantaged Public Schools: Expenditures per pupil]({{ site.url }}/public-school-funding/)
 
 <figure>
-  <a href="/public-school-funding/"><img src="/images/"></a>
+  <a href="/public-school-funding/"><img src="/images/schools-wide.png"></a>
   <figcaption>A map of Census data showing every US school district and the amount of funding that goes to their students.</figcaption>
 </figure>
 
