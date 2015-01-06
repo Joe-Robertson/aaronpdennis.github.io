@@ -13,6 +13,6 @@ image:
 
 
 <figure>
-	<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.a3832b50.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
-	<figcaption>Expenditures per student in US school districts.</figcaption>
+	<iframe width="100%" height="550px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.a3832b50.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
+	<figcaption>Expenditures per student in US school districts. <a href="https://api.tiles.mapbox.com/v4/aarondennis.a3832b50/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#5/37.370/-83.298">Full Map Here.</a></figcaption>
 </figure>
