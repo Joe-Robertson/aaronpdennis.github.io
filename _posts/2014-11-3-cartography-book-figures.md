@@ -32,6 +32,11 @@ This figure demonstrates a sequential color scheme.
 	<a href="/images/dbm2-book-figures/Yosemite_Fire_Severity.jpg"><img src="/images/dbm2-book-figures/Yosemite_Fire_Severity.jpg"></a>
 </figure>
 
+Matching similar categories with similar colors using this National Land Cover Data.
+<figure>
+	<a href="/images/dbm2-book-figures/landcover.jpg"><img src="/images/dbm2-book-figures/landcover.jpg"></a>
+</figure>
+
 A fun look at the potential for bivariate symbols using NHD Plus data.
 <figure>
 	<a href="/images/dbm2-book-figures/rivers.jpg"><img src="/images/dbm2-book-figures/rivers.jpg"></a>
