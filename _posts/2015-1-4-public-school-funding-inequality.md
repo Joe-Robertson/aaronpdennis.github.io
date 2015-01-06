@@ -2,7 +2,7 @@
 layout: post
 title: Public School Expenditures
 excerpt: "A map of Census data showing every US school district and the amount of funding that goes to their students."
-modified: 2014-12-30
+modified: 2015-1-5
 tags: [aaron dennis, mapbox, schools, cartography]
 comments: true
 image:
