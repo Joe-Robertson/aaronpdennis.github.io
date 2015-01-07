@@ -14,6 +14,15 @@ image:
 
 ---
 
+### [*Developing:* Interactive Soil Moisture Content Data Visualization]({{ site.url }}/soil-moisture-trends/)
+
+<figure>
+  <a href="/soil-moisture-trends/"><img src="/images/soil-moisture/soil-moisture-wide.png"></a>
+  <figcaption>Built from scratch with D3.js, a responsive, web-based visualization of remotely sensed soil moisture data.</figcaption>
+</figure>
+
+---
+
 ### [Public School Expenditures per Student]({{ site.url }}/public-school-funding/)
 
 <figure>
