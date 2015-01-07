@@ -15,7 +15,7 @@ It's clear from the data below that some parts of the United States value educat
 <figure>
   <img src="/images/schools-legend.png" />
 	<iframe width="100%" height="400px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/aarondennis.51954ab2.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw"></iframe>
-	<figcaption>Expenditures per student in US school districts. <a href="https://api.tiles.mapbox.com/v4/aarondennis.51954ab2/page.html?access_token=pk.eyJ1IjoiYWFyb25kZW5uaXMiLCJhIjoiem5LLURoYyJ9.T3tswGTI5ve8_wE-a02cMw#5/37.370/-83.298">Full Map Here.</a></figcaption>
+	<figcaption>Expenditures per student in US school districts. <a href="http://aaronpdennis.github.io/public-schools-map/index.html">Full Map Here.</a></figcaption>
 </figure>
 
 The color scheme here is worth mentioning. Conventionally, we think of darker colors as representing higher values, and here, they do. But with a light background, lower value school districts have necessarily lower contrast and are therefore less noticeable. To solve this issue, I gave low values highly saturated colors. Looking at the legend, high values have the darkest and least saturated colors and low values have the lightest and most saturated colors. This keeps all values distinguishable and easily quantifiable and allowed me to pursue a hue change from red to blue.
