@@ -11,6 +11,8 @@ image:
   creditlink: 
 ---
 
+These maps were designed for print. Highlights: natural legend, color scheme, use of transparency
+
 <figure>
 	<a href="/images/hemlock-adelgid-maps/hemlockTitle.png"><img src="/images/hemlock-adelgid-maps/hemlockTitle-small.jpg"></a>
 </figure>
