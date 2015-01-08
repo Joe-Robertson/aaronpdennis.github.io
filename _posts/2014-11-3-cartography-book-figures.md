@@ -10,7 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
-I've been working with Cindy Brewer in the Gould Center at Penn State to help rewrite her book, <ul>Designing Better Maps</ul>, published by Esri Press. These are some of the figures I've created to explain color decisions for maps and bivariate symbols. Figures copyright Esri Press. These are not final draft figures.
+I've been working with Cindy Brewer in the Gould Center at Penn State to help rewrite her book, <u>Designing Better Maps</u>, published by Esri Press. These are some of the figures I've created to explain color decisions for maps and bivariate symbols. Figures copyright Esri Press. These are not final draft figures.
 
 This figure demonstrates a diverging color scheme.
 <figure>
